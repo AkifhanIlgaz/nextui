@@ -1,5 +1,30 @@
 # @nextui-org/react
 
+## 2.2.10
+
+### Patch Changes
+
+- Updated dependencies [[`0ba165f0f`](https://github.com/nextui-org/nextui/commit/0ba165f0fd2257f5b8302b32a9f5eb1ecde8d890), [`436ba1cd8`](https://github.com/nextui-org/nextui/commit/436ba1cd8412dc044651ab38ff2ed770f35377ff), [`0b5cde7bc`](https://github.com/nextui-org/nextui/commit/0b5cde7bc4fc71231eb117f44052db2efdbdc595), [`bea1e1fde`](https://github.com/nextui-org/nextui/commit/bea1e1fde8358d03a16bb6a9e517de724b5d95e4), [`01aedcf09`](https://github.com/nextui-org/nextui/commit/01aedcf09b63daafef9ff5e0465040c0c91c809e)]:
+  - @nextui-org/select@2.1.21
+  - @nextui-org/input@2.1.17
+  - @nextui-org/spinner@2.0.25
+  - @nextui-org/tooltip@2.0.30
+  - @nextui-org/popover@2.1.15
+  - @nextui-org/accordion@2.0.28
+  - @nextui-org/autocomplete@2.0.10
+  - @nextui-org/modal@2.0.28
+  - @nextui-org/navbar@2.0.27
+  - @nextui-org/tabs@2.0.26
+  - @nextui-org/button@2.0.27
+  - @nextui-org/table@2.0.28
+  - @nextui-org/breadcrumbs@2.0.4
+  - @nextui-org/slider@2.2.6
+  - @nextui-org/snippet@2.0.31
+  - @nextui-org/dropdown@2.1.17
+  - @nextui-org/card@2.0.24
+  - @nextui-org/radio@2.0.25
+  - @nextui-org/skeleton@2.0.24
+
 ## 2.2.9
 
 ### Patch Changes
